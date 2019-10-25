@@ -2,7 +2,7 @@
 
 ## [![Zlatan Eevee](https://ieevee.com/assets/logo.png)](https://ieevee.com/)
 
-## 记录下GFW内k8s的部署流程，备忘。
+记录下GFW内k8s的部署流程，备忘.
 
 1、各节点上配置hostname，配置resole.conf
 
