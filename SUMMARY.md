@@ -11,4 +11,5 @@
 * [kubernetes安全](kubernetes-an-quan.md)
 * [kubernetes网络](kubernetes-wang-luo.md)
 * [阿里云容器服务故障排查记录](e-li-yun-rong-qi-fu-wu-gu-zhang-pai-cha-ji-lu.md)
+* [Pipeline As Code With Jenkins2.0](pipeline-as-code-with-jenkins2.0.md)
 
