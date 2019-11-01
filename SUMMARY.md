@@ -12,4 +12,5 @@
 * [kubernetes网络](kubernetes-wang-luo.md)
 * [阿里云容器服务故障排查记录](e-li-yun-rong-qi-fu-wu-gu-zhang-pai-cha-ji-lu.md)
 * [Pipeline As Code With Jenkins2.0](pipeline-as-code-with-jenkins2.0.md)
+* [在现有 Kubernetes 集群上安装 KubeSphere](zai-xian-you-kubernetes-ji-qun-shang-an-zhuang-kubesphere.md)
 
